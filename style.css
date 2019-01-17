@@ -1,0 +1,13 @@
+html, body {
+  width: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#canv{
+	width: 60%;
+	height: auto;
+}
